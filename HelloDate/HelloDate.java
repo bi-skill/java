@@ -20,4 +20,4 @@ public class HelloDate {
 	System.out.println ("Hello, it's: ");
 	System.out.println(new Date());
     }
-}
+}/*exit*/
